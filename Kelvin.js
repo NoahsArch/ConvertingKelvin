@@ -1,4 +1,4 @@
-const kelvin = 0;
+const kelvin = 280;
 // the constant of kelvin is 293
 const celsius = kelvin - 273;
 var newton = celsius * (33/100);
